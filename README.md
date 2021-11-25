@@ -1,7 +1,7 @@
 # Praktikum-Alstrukdat
 > Halo! Selamat datang di repository praktikum alstrukdat ini !!
 
-Repository ini berisi semua src code dari jawaban praktikumku. Oiya, file jawaban prapraktikum sama praktikum aku gabung dalam satu folder jadi silahkan bedain sendiri ya hehe. Buat yang lagi liat - liat untuk mencari referensi ngejawab soal praktikum, sabi cek.
+Repository ini berisi semua src code dari jawaban praktikumku. Oiya, file jawaban pra-praktikum sama praktikum aku gabung dalam satu folder jadi silahkan bedain sendiri ya hehe. Buat yang lagi liat - liat untuk mencari referensi ngejawab soal praktikum, sabi cek.
 
 
 ## TOPIK PRAKTIKUM
