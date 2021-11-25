@@ -1,0 +1,1 @@
+fopen("test.txt","r");
