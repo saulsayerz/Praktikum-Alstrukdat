@@ -1,1 +1,0 @@
-fopen("test.txt","r");

@@ -1,1 +1,0 @@
-printf("UJICOBA FUNGSI BACATIME, Input time1 dengan format hh mm ss: ");
