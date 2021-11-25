@@ -1,7 +1,7 @@
 # Praktikum-Alstrukdat
 > Halo! Selamat datang di repository praktikum alstrukdat ini !!
 
-Repository ini berisi semua src code dari jawaban praktikumku. Buat yang lagi liat - liat untuk mencari referensi ngejawab soal praktikum, sabi cek.
+Repository ini berisi semua src code dari jawaban praktikumku. Oiya, file jawaban pra-praktikum sama praktikum aku gabung dalam satu folder jadi silahkan bedain sendiri ya hehe. Buat yang lagi liat - liat untuk mencari referensi ngejawab soal praktikum, sabi cek.
 
 
 ## TOPIK PRAKTIKUM
@@ -20,6 +20,6 @@ Repository ini berisi semua src code dari jawaban praktikumku. Buat yang lagi li
 - Praktikum 13 : Binary Trees
 
 > NOTE PENTING!!!
-> Untuk Praktikum 7 file prioqueue.c ga selesai dan dapet 0, jadi jangan dijadiin referensi hehehe. Untuk file lain aman kok :D
+> Untuk Praktikum 7 file mprioqueue.c ga selesai dan dapet 0, jadi jangan dijadiin referensi hehehe. Untuk file lain aman kok :D
 
 
