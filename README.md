@@ -20,6 +20,6 @@ Repository ini berisi semua src code dari jawaban praktikumku. Buat yang lagi li
 - Praktikum 13 : Binary Trees
 
 > NOTE PENTING!!!
-> Untuk Praktikum 7 file prioqueue.c ga selesai dan dapet 0, jadi jangan dijadiin referensi hehehe. Untuk file lain aman kok :D
+> Untuk Praktikum 7 file mprioqueue.c ga selesai dan dapet 0, jadi jangan dijadiin referensi hehehe. Untuk file lain aman kok :D
 
 
