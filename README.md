@@ -14,7 +14,7 @@ Repository ini berisi semua src code dari jawaban praktikumku. Oiya, file jawaba
 - Praktikum 7  : Queue
 - Praktikum 8  : Stack
 - Praktikum 9  : Linked List
-- Praktikum 10 : Linked List (Circular version)
+- Praktikum 10 : Linked List (Circular & Double Pointer version)
 - Praktikum 11 : Linked List (Stack & Queue version)
 - Praktikum 12 : Linked List (recursive version)
 - Praktikum 13 : Binary Trees
